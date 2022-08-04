@@ -95,7 +95,7 @@ All entries will be chosen by Zach Soares and team for the following categories:
 
 
 
-#### Grand Prize: Three Winners chosen by Zach Soares and team
+#### Grand Prize: Three winners chosen by Zach Soares and team
 
 **1st Place:** 
 
