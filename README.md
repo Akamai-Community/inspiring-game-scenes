@@ -18,7 +18,7 @@ If you create something awesome that you’d like to share, send it over to us o
 
 <br></br>
 
-### [Akamai and MagicaVoxel Contest: Inspiring Game Scenes- August 8 to August 29](#Inspiring-Game-Scenes-Contest-August-8th-August-29th)
+### [Akamai and MagicaVoxel Contest: Inspiring Game Scenes- August 8 to August 29](#akamai-x-magicavoxel-presents)
 
 ------
 
