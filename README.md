@@ -63,7 +63,7 @@ We can’t wait to see what you create!
 1. Star Akamai-Communtity/ inspiring-game-scenes [repo](https://github.com/Akamai-Community/inspiring-game-scenes)
 2. Follow [@akamaidev](https://twitter.com/akamaidev) on Twitter 
 3. [Tweet](https://twitter.com/intent/tweet?text=%5BDescription%20of%20your%20submission%5D%20%40akamaidev%20%23gamescenescontest%20%23LDJAM%20%5BUpload%20Image%5D) your high resolution image and mention @akamaidev. Include a short description of what you made and add the hashtags: #gamescenecontest #LDJAM
-4. Fill out our[form](https://learnakamai.typeform.com/to/S1lZB9Fs) to submit your artwork. We’ll only save your information until we send out prizes.
+4. Fill out our [form](https://learnakamai.typeform.com/to/S1lZB9Fs) to submit your artwork. We’ll only save your information until we send out prizes.
 
 
 
