@@ -29,11 +29,11 @@ If you create something awesome that you’d like to share, send it over to us o
 This GitHub repo contains all the files you need to build your own retro game-inspired voxel art. **We’ll be providing the template and adding new examples each week that you can use as building blocks or inspiration. All you need to do is star and follow this repo to get updates as we release new scenes.**
 
 1. Star and follow this repo to get notified when we release new scenes that you can use to build your own artwork, or just for inspiration. 
-2. Download the template file [here](https://github.com/Akamai-Community/inspiring-game-scenes/tree/main/models/desktop-template) and open it in your favorite voxel editor. If you’re new to voxel art, we suggest using [MagicaVoxel](https://ephtracy.github.io/), a free voxel editor, but there are other great options out there.
-3. Model your retro game-inspired scene inside of the monitor. You can use the area inside of the monitor or expand outside of its borders. Try to take advantage of the 3D space. Need inspiration? We wrote out some [tips to get started.](https://github.com/Akamai-Community/inspiring-game-scenes/tree/main/models#readme)
+2. Download the template file [here](https://github.com/Akamai-Community/inspiring-game-scenes/tree/main/models/desktop-template)(models folder in this repo) and open it in your favorite voxel editor. If you’re new to voxel art, we suggest using [MagicaVoxel](https://ephtracy.github.io/), a free voxel editor, but there are other great options out there.
+3. Model your retro game-inspired scene inside of the monitor. You can use the area inside of the monitor or expand outside of its borders. Try to take advantage of the 3D space. Need inspiration? We wrote out some [tips to use the models.](https://github.com/Akamai-Community/inspiring-game-scenes/tree/main/models#readme)
 4. Export a rendering of your scene and share it on Twitter using the following hashtags so we can see what you’ve created and share with our community: @akamaidev #inspiringgamescenes 
 
-Want some tips on how to get the most from these files? Zach Soares put together a [getting started guide.](https://github.com/Akamai-Community/inspiring-game-scenes/tree/main/models#readme) 
+Want some tips on how to get the most from these files? Zach Soares put together a [tips to using the models guide.](https://github.com/Akamai-Community/inspiring-game-scenes/tree/main/models#readme) 
 
 ------
 
@@ -43,7 +43,7 @@ Want some tips on how to get the most from these files? Zach Soares put together
 
 ### Inspiring Game Scenes Contest - August 8th - August 29th 
 
-*Build a game scene that inspires you to life using our [*desktop template*](https://github.com/Akamai-Community/inspiring-game-scenes/tree/main/models/desktop-template)*.
+*Build a game scene that inspires you to life using our [*desktop template*](https://github.com/Akamai-Community/inspiring-game-scenes/tree/main/models/desktop-template)(models folder in this repo)*.
 
 *![img](https://github.com/Akamai-Community/inspiring-game-scenes/blob/main/assets/img/main-readme-imgs/desktoptemplate-main.png)* 
 
