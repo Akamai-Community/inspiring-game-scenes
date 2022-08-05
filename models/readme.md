@@ -1,6 +1,4 @@
-# Getting Started Guide 
-
-[Link to Video Tutorial](https://drive.google.com/drive/folders/10w6XVMRYqNNW3ThjvxKl7F5t5hByfcTh)
+# Tips for Using the Models
 
 
 
