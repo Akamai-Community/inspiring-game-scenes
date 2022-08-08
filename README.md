@@ -53,7 +53,7 @@ Ludum Dare brings gamers, developers, and artists together to create a game over
 
 In honor of Ludum Dare 51, we are hosting our own voxel game art contest. We invite you to build and share retro game-inspired scenes using our desktop template (pictured above) and examples that we’ll be adding each week from Zach Soares. Below, you’ll find the rules for a chance to win a Razer laptop, gaming chair, monitor, and more. 
 
-*Star and follow our repo to stay up to date on new downloadable voxel art each week. We’ll be adding new building blocks and examples for you to utilize. 
+Star and follow our repo to stay up to date on new downloadable voxel art each week. We’ll be adding new building blocks and examples for you to utilize. 
 
 We can’t wait to see what you create!
 <br></br>
@@ -131,9 +131,9 @@ All entries will be chosen by Zach Soares and team for the following categories:
 
 
 
-**Participants** 
+**Participants: Anyone who submits a valid submission** 
 
-- Anyone who submits a valid submissionA Mousepad featuring Zach’s artwork 
+- A Mousepad featuring Zach’s artwork 
 
 
 
