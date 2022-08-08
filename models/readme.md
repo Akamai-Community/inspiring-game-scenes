@@ -1,6 +1,6 @@
 # Tips for Using the Models
 
-
+*New to voxel art? Check out [this tutorial](https://www.youtube.com/watch?v=uKOBIHSgIwI) by PremiumBeat to get started using MagicaVoxel.*
 
 This document walks you through how to use our template model to create your own voxel art - and we’ll give you some tips along the way. The default model that you can [download here ](https://github.com/Akamai-Community/inspiring-game-scenes/tree/main/models/desktop-template)is quite bare. When you open up the file, you’ll see a 3-D model old computer built into a monitor with relatively nothing inside. If you’re new to voxel art, we recommend downloading [Magicavoxel](https://www.voxelmade.com/magicavoxel/) to get started.
 
