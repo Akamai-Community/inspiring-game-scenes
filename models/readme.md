@@ -1,4 +1,4 @@
-# Tips for Using the Models
+# Tips for Using the Models [(Video Version)](https://www.youtube.com/watch?v=I8O11FK8Z2o)
 
 *New to voxel art? Check out [this tutorial](https://www.youtube.com/watch?v=uKOBIHSgIwI) by PremiumBeat to get started using MagicaVoxel.*
 
