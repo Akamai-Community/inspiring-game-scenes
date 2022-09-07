@@ -4,7 +4,7 @@ This repo contains files and examples to help you build game-inspired voxel art.
 
 ------
 
-
+**We’ve got exciting news.** We’ve voted and the results of our Inspiring Games Contest are in! [See if you won or just admire the amazing artwork](https://github.com/Akamai-Community/inspiring-game-scenes#akamai-x-magicavoxel-presents) from our winners and finalists. 
 
 *Close your eyes and think back to your childhood. Can you remember the games you loved to play after a long day at school? We wanted to make it easy for you to bring some of those childhood memories back to life (or at least to 3D), so we created this repo.* 
 
@@ -16,9 +16,6 @@ Our developer community constantly inspires us by sharing interesting, funny, an
 
 If you create something awesome that you’d like to share, send it over to us on [Twitter](https://twitter.com/akamaidev)!
 
-<br></br>
-
-### [Akamai and MagicaVoxel Contest: Inspiring Game Scenes- August 8 to August 29](#akamai-x-magicavoxel-presents)
 
 ------
 
@@ -39,9 +36,53 @@ Want some tips on how to get the most from these files? Zach Soares put together
 
 <br></br>
 
-## Akamai X MagicaVoxel presents: 
+## Akamai X MagicaVoxel presents
 
-### Inspiring Game Scenes Contest - August 8th - August 29th 
+### Inspiring Game Scenes Contest: Winners
+
+🏆 ANNOUNCING THE WINNERS! 
+We received some incredible submissions and along with Zach Soares [(@voxels)](https://twitter.com/Voxels), we’ve chosen our winners! 
+
+## Grand Prize Winners
+
+Check out our grand prize winners below. 
+
+[<img src="https://github.com/Akamai-Community/buildit/blob/main/assets/img/abductedbypixels.jpeg" height="240"/>](https://twitter.com/abductedbypixe1/status/1564020119495491587)
+[<img src="https://github.com/Akamai-Community/buildit/blob/main/assets/img/austinacreative.jpeg" height="240"/>](https://twitter.com/AustinACreative/status/1563983543344275458) 
+[<img src="https://github.com/Akamai-Community/buildit/blob/main/assets/img/mangovoxel.png" height="240"/>](https://twitter.com/Mango_Voxel/status/1564316162749788161) 
+
+<em>left to right: [AbductedbyPixels](https://twitter.com/abductedbypixe1), [AustinACreative](https://twitter.com/AustinACreative), [Mango_Voxel](https://twitter.com/Mango_Voxel) </em>
+
+
+
+## Finalists
+
+[<img src="https://github.com/Akamai-Community/buildit/blob/main/assets/img/johnnyC01587149.jpeg" height="230"/>](https://twitter.com/JohnnyC01587149/status/1563975406407098368)
+[<img src="https://github.com/Akamai-Community/buildit/blob/main/assets/img/bigboyarts.png" height="230"/>](https://twitter.com/BigBoyArts/status/1564329296939950080 ) 
+[<img src="https://github.com/Akamai-Community/buildit/blob/main/assets/img/justinleduc.jpeg" height="230"/>](https://twitter.com/justincleduc/status/1564497487561375750) 
+
+<em>left to right: [Johnny Clark](https://twitter.com/JohnnyC01587149), [Big Boy](https://twitter.com/BigBoyArts), [Justin LeDuc](https://twitter.com/justincleduc) </em>
+
+[<img src="https://github.com/Akamai-Community/buildit/blob/main/assets/img/firedvoxels.jpeg" height="240"/>](https://twitter.com/friedvoxels/status/1564172979541782529)
+[<img src="https://github.com/Akamai-Community/buildit/blob/main/assets/img/mixter_chestnut.jpeg" height="240"/>](https://twitter.com/Mixter_chestnut/status/1564317525596409862) 
+
+<em>left to right: [Fried](https://twitter.com/friedvoxels), [Nathan](https://twitter.com/Mixter_chestnut)</em>
+
+
+
+
+
+Thank you to everyone who participated in the Inspiring Game Scenes Contest, we had some great submissions and a ton of fun engaging with the vibrant voxel and gaming community.
+</p>
+
+Need more gaming in your life? Enter [Ludum Dare](https://ldjam.com/)’s 51st game jam, coming this September 30th- October 2nd
+
+</br>
+</br>
+
+
+
+### Inspiring Game Scenes Contest - (Submissions are closed)
 
 *Build a game scene that inspires you to life using our [*desktop template*](https://github.com/Akamai-Community/inspiring-game-scenes/tree/main/models/desktop-template)(models folder in this repo)*.
 
