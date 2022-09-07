@@ -47,9 +47,9 @@ We received some incredible submissions and along with Zach Soares [(@voxels)](h
 
 Check out our grand prize winners below. 
 
-[<img src="https://github.com/Akamai-Community/inspiring-game-scenes/blob/main/assets/img/main-readme-imgs/abductedbypixels.jpeg" height="240"/>](https://twitter.com/abductedbypixe1/status/1564020119495491587)
-[<img src="https://github.com/Akamai-Community/inspiring-game-scenes/blob/main/assets/img/main-readme-imgs/austinacreative.jpeg" height="240"/>](https://twitter.com/AustinACreative/status/1563983543344275458) 
-[<img src="https://github.com/Akamai-Community/inspiring-game-scenes/blob/main/assets/img/main-readme-imgs/mangovoxel.png" height="240"/>](https://twitter.com/Mango_Voxel/status/1564316162749788161) 
+[<img src="https://github.com/Akamai-Community/inspiring-game-scenes/blob/main/assets/img/main-readme-imgs/abductedbypixels.jpeg" height="230"/>](https://twitter.com/abductedbypixe1/status/1564020119495491587)
+[<img src="https://github.com/Akamai-Community/inspiring-game-scenes/blob/main/assets/img/main-readme-imgs/austinacreative.jpeg" height="230"/>](https://twitter.com/AustinACreative/status/1563983543344275458) 
+[<img src="https://github.com/Akamai-Community/inspiring-game-scenes/blob/main/assets/img/main-readme-imgs/mangovoxel.png" height="230"/>](https://twitter.com/Mango_Voxel/status/1564316162749788161) 
 
 <em>left to right: [AbductedbyPixels](https://twitter.com/abductedbypixe1), [AustinACreative](https://twitter.com/AustinACreative), [Mango_Voxel](https://twitter.com/Mango_Voxel) </em>
 
@@ -57,9 +57,9 @@ Check out our grand prize winners below.
 
 ## Finalists
 
-[<img src="https://github.com/Akamai-Community/inspiring-game-scenes/blob/main/assets/img/main-readme-imgs/johnnyC01587149.jpeg" height="230"/>](https://twitter.com/JohnnyC01587149/status/1563975406407098368)
-[<img src="https://github.com/Akamai-Community/inspiring-game-scenes/blob/main/assets/img/main-readme-imgs/bigboyarts.png" height="230"/>](https://twitter.com/BigBoyArts/status/1564329296939950080 ) 
-[<img src="https://github.com/Akamai-Community/inspiring-game-scenes/blob/main/assets/img/main-readme-imgs/justinleduc.jpeg" height="230"/>](https://twitter.com/justincleduc/status/1564497487561375750) 
+[<img src="https://github.com/Akamai-Community/inspiring-game-scenes/blob/main/assets/img/main-readme-imgs/johnnyC01587149.jpeg" height="220"/>](https://twitter.com/JohnnyC01587149/status/1563975406407098368)
+[<img src="https://github.com/Akamai-Community/inspiring-game-scenes/blob/main/assets/img/main-readme-imgs/bigboyarts.png" height="220"/>](https://twitter.com/BigBoyArts/status/1564329296939950080 ) 
+[<img src="https://github.com/Akamai-Community/inspiring-game-scenes/blob/main/assets/img/main-readme-imgs/justinleduc.jpeg" height="220"/>](https://twitter.com/justincleduc/status/1564497487561375750) 
 
 <em>left to right: [Johnny Clark](https://twitter.com/JohnnyC01587149), [Big Boy](https://twitter.com/BigBoyArts), [Justin LeDuc](https://twitter.com/justincleduc) </em>
 
